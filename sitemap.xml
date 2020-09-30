@@ -16,7 +16,9 @@
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://jenkins-x.io/es/sitemap.xml</loc>
+	   	<input type="button" style="background-color:black;color:white;width:150px;
+height:40px;" value="Click Me!!">
+<loc>https://jenkins-x.io/es/sitemap.xml</loc>
 		
 	   	<lastmod>2020-09-28T14:42:47+00:00</lastmod>
 		
